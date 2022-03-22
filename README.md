@@ -7,7 +7,7 @@ The purpose of this analysis was to help our client, Louise, discover funding tr
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-The first step in the analysis was to take a look at our dataset.  It is important to know what the data in each column/row represents.  The first challenge to overcome was to convert the time stamps into readable dates by creating a new column.  We then used the data to creat a pivot table that sorted by the parent category (Theater) and the years.  By putting the months in the rows bin and the outcomes in the columns bin we were able to create a pivot table to show the outcome of the campaign based on the month the campaign was started in.  We used the data in the pivot table to creat the below chart that illlustrates the outcomes of campaigns based on the month they launched in. 
+The first step in the analysis was to take a look at our dataset.  It is important to know what the data in each column/row represents.  The first challenge to overcome was to convert the time stamps into readable dates by creating a new column.  We then used the data to create a pivot table that sorted by the parent category (Theater) and the years.  By putting the months in the rows bin and the outcomes in the columns bin we were able to create a pivot table to show the outcome of the campaign based on the month the campaign was started in.  We used the data in the pivot table to creat the below chart that illlustrates the outcomes of campaigns based on the month they launched in. 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/bwheeler98/kickstarter-analysis/blob/2828133ac7ada6b3e2c06d1145651cde5473e29a/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
